@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Palabra Incorrecta",
+        "command": "chequeo-tareas:palabraIncorrecta"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "chequeo-tareas",
+          "submenu": [
+            {
+              "label": "Palabra Incorrecta",
+              "command": "chequeo-tareas:palabraIncorrecta"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
