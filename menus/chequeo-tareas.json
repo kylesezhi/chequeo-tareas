@@ -20,6 +20,10 @@
       {
         "label": "Palabra Innecesaria",
         "command": "chequeo-tareas:innecesario"
+      },
+      {
+        "label": "Palabra Omitida",
+        "command": "chequeo-tareas:palabraOmitida"
       }
 
     ]
@@ -50,6 +54,10 @@
             {
               "label": "Palabra Innecesaria",
               "command": "chequeo-tareas:innecesario"
+            },
+            {
+              "label": "Palabra Omitida",
+              "command": "chequeo-tareas:palabraOmitida"
             }
 
           ]
