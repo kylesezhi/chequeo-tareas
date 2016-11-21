@@ -24,7 +24,12 @@
       {
         "label": "Palabra Omitida",
         "command": "chequeo-tareas:palabraOmitida"
+      },
+      {
+        "label": "Problema de estructura de la frase",
+        "command": "chequeo-tareas:estructura"
       }
+
 
     ]
   },
