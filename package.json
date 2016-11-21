@@ -5,11 +5,6 @@
   "description": "Check Spanish homework with XML",
   "keywords": [
   ],
-  "activationCommands": {
-    "atom-workspace": "chequeo-tareas:palabraIncorrecta",
-    "atom-workspace": "chequeo-tareas:problemaOrtografico",
-    "atom-workspace": "chequeo-tareas:conjugacionIncorrecta"
-  },
   "repository": "https://github.com/kylesezhi/chequeo-tareas",
   "license": "MIT",
   "engines": {
