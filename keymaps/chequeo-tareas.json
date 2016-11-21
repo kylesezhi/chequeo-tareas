@@ -5,7 +5,7 @@
     "ctrl-t": "chequeo-tareas:conjugacionIncorrecta",
     "ctrl-c": "chequeo-tareas:problemaConcordancia",
     "ctrl-n": "chequeo-tareas:innecesario",
-    "ctrl-o": "chequeo-tareas:palabra_omitida",
+    "ctrl-o": "chequeo-tareas:palabraOmitida",
     "ctrl-e": "chequeo-tareas:estructura"
     
   }
