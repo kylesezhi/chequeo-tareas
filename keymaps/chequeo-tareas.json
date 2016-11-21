@@ -4,7 +4,9 @@
     "ctrl-g": "chequeo-tareas:problemaOrtografico",
     "ctrl-t": "chequeo-tareas:conjugacionIncorrecta",
     "ctrl-c": "chequeo-tareas:problemaConcordancia",
-    "ctrl-n": "chequeo-tareas:innecesario"
+    "ctrl-n": "chequeo-tareas:innecesario",
+    "ctrl-o": "chequeo-tareas:palabra_omitida",
+    "ctrl-e": "chequeo-tareas:estructura"
     
   }
 }
