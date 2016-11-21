@@ -1,5 +1,7 @@
 {
   "atom-workspace": {
-    "ctrl-i": "chequeo-tareas:palabraIncorrecta"
+    "ctrl-i": "chequeo-tareas:palabraIncorrecta",
+    "ctrl-g": "unbind!",
+    "ctrl-g": "chequeo-tareas:problemaOrtografico"
   }
 }
