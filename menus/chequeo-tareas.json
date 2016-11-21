@@ -4,6 +4,14 @@
       {
         "label": "Palabra Incorrecta",
         "command": "chequeo-tareas:palabraIncorrecta"
+      },
+      {
+        "label": "Problema Ortográfico",
+        "command": "chequeo-tareas:problemaOrtografico"
+      },
+      {
+        "label": "Conjugación de Tiempo Incorrecta",
+        "command": "chequeo-tareas:conjugacionIncorrecta"
       }
     ]
   },
@@ -12,12 +20,21 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "chequeo-tareas",
+          "label": "Chequeo Tareas",
           "submenu": [
             {
               "label": "Palabra Incorrecta",
               "command": "chequeo-tareas:palabraIncorrecta"
+            },
+            {
+              "label": "Problema Ortográfico",
+              "command": "chequeo-tareas:problemaOrtografico"
+            },
+            {
+              "label": "Conjugación de Tiempo Incorrecta",
+              "command": "chequeo-tareas:conjugacionIncorrecta"
             }
+
           ]
         }
       ]

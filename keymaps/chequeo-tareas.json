@@ -1,7 +1,8 @@
 {
-  "atom-workspace": {
+  "atom-text-editor": {
     "ctrl-i": "chequeo-tareas:palabraIncorrecta",
-    "ctrl-g": "unbind!",
-    "ctrl-g": "chequeo-tareas:problemaOrtografico"
+    "ctrl-g": "chequeo-tareas:problemaOrtografico",
+    "ctrl-t": "chequeo-tareas:conjugacionIncorrecta"
+    
   }
 }
