@@ -16,7 +16,12 @@
       {
         "label": "Concordancia (persona, número)",
         "command": "chequeo-tareas:problemaConcordancia"
+      },
+      {
+        "label": "Palabra Innecesaria",
+        "command": "chequeo-tareas:innecesario"
       }
+
     ]
   },
   "menu": [
@@ -41,6 +46,10 @@
             {
               "label": "Concordancia (persona, número)",
               "command": "chequeo-tareas:problemaConcordancia"
+            },
+            {
+              "label": "Palabra Innecesaria",
+              "command": "chequeo-tareas:innecesario"
             }
 
           ]
