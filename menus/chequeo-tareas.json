@@ -12,6 +12,10 @@
       {
         "label": "Conjugación de Tiempo Incorrecta",
         "command": "chequeo-tareas:conjugacionIncorrecta"
+      },
+      {
+        "label": "Concordancia (persona, número)",
+        "command": "chequeo-tareas:problemaConcordancia"
       }
     ]
   },
@@ -33,6 +37,10 @@
             {
               "label": "Conjugación de Tiempo Incorrecta",
               "command": "chequeo-tareas:conjugacionIncorrecta"
+            },
+            {
+              "label": "Concordancia (persona, número)",
+              "command": "chequeo-tareas:problemaConcordancia"
             }
 
           ]

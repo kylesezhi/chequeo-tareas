@@ -2,7 +2,8 @@
   "atom-text-editor": {
     "ctrl-i": "chequeo-tareas:palabraIncorrecta",
     "ctrl-g": "chequeo-tareas:problemaOrtografico",
-    "ctrl-t": "chequeo-tareas:conjugacionIncorrecta"
+    "ctrl-t": "chequeo-tareas:conjugacionIncorrecta",
+    "ctrl-c": "chequeo-tareas:problemaConcordancia"
     
   }
 }

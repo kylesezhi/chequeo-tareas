@@ -1,8 +1,8 @@
 {
   "name": "chequeo-tareas",
   "main": "./lib/chequeo-tareas",
-  "version": "0.0.0",
-  "description": "A short description of your package",
+  "version": "0.0.1",
+  "description": "Check Spanish homework with XML",
   "keywords": [
   ],
   "activationCommands": {
